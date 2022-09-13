@@ -1,9 +1,9 @@
 # UX Research Working Group DRAFT 
 
 ## About: 
-Description of working working group - COMING SOON 
+Description of working working group - COMING SOON See this milestone: https://github.com/omigroup/ux-research/milestone/1
 
-## How you can get involved: TBD
+## How you can get involved: TBD - see this milestone: https://github.com/omigroup/ux-research/milestone/1
 - The group meets on _____ days every _____ week(s) at _____ UTC (24:00 Format) 
 - We track our active tickets with our [Github Projects Kanban Backlog](../../projects/1?add_cards_query=is%3Aopen)
 - We organize our backlog with intent using github [Milestones](../../milestones) which makes it easier to track progress based on desired outcomes and objectives.
