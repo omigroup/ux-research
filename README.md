@@ -3,7 +3,7 @@
 This group is newly formed and will resume working through our README, and repo on November 1, 2022 at 16:00 UTC. You can add your ideas for what we should work on here: https://github.com/omigroup/ux-research/issues/12
 
 ## About: 
-Description of working working group - COMING SOON See this milestone: https://github.com/omigroup/ux-research/milestone/1
+Description of working working group coming soon. 
 
 ## How you can get involved: TBD - see this milestone: https://github.com/omigroup/ux-research/milestone/1
 - The group meets on Tuesday (for now) every 2 week(s) at 16:00 UTC
