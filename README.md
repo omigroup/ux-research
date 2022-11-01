@@ -6,15 +6,14 @@ This group is newly formed and will resume working through our README, and repo 
 Description of working working group - COMING SOON See this milestone: https://github.com/omigroup/ux-research/milestone/1
 
 ## How you can get involved: TBD - see this milestone: https://github.com/omigroup/ux-research/milestone/1
-- The group meets on _____ days every _____ week(s) at _____ UTC (24:00 Format) 
-- We track our active tickets with our [Github Projects Kanban Backlog](../../projects/1?add_cards_query=is%3Aopen)
-- We organize our backlog with intent using github [Milestones](../../milestones) which makes it easier to track progress based on desired outcomes and objectives.
-- We discuss our efforts using [github discussions](../../discussions)
-- Any questions? Contact the designated working group lead(s) ______
+- The group meets on Tuesday (for now) every 2 week(s) at 16:00 UTC
+- We might track our active tickets with our [Github Projects Kanban Backlog](../../projects/1?add_cards_query=is%3Aopen) but haven't really started using the backlog yet. 
+- A great way to track work is using [Milestones](../../milestones) which makes it easier to track progress based on desired outcomes and objectives.
+- We discuss our efforts using [github discussions](../../discussions) and in the discord channel `omi-uxresearch`
+- Any questions? Contact the designated working group lead Shadow @Elirudite
 
 Our Commitments: 
-- Recurring meeting is at ___ 
-- Our [working agreement can be found here](../../discussions) on github discussions
+- We are still very new and need all the help we can get. We haven't created too many processes just yet. 
 - We have a group retrospective on the 4th ___ of every month to reflect on what is going well, what could be improved, and what we will do differently next cycle. 
-- We will / or will not be recording our meetings and you can or can not find those meeting recordings here
-- We will create an agenda before our recurring meetings, and take notes during our meeting. 
+- We will not be recording our meetings (unless you can attend and record for us)
+- We will create an agenda before our recurring meetings, and ask volunteers to take notes during our meeting. 
