@@ -14,6 +14,6 @@ Description of working working group - COMING SOON See this milestone: https://g
 
 Our Commitments: 
 - We are still very new and need all the help we can get. We haven't created too many processes just yet. 
-- We have a group retrospective on the 4th ___ of every month to reflect on what is going well, what could be improved, and what we will do differently next cycle. 
+- TBD: We might have a group retrospective on the 4th ___ of every month to reflect on what is going well, what could be improved, and what we will do differently next cycle. 
 - We will not be recording our meetings (unless you can attend and record for us)
 - We will create an agenda before our recurring meetings, and ask volunteers to take notes during our meeting. 
