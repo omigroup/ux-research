@@ -5,7 +5,7 @@ This group is newly formed and will resume working through our README, and repo 
 ## About: 
 Description of working working group coming soon. 
 
-## How you can get involved: TBD - see this milestone: https://github.com/omigroup/ux-research/milestone/1
+## How you can get involved: TBD - see this milestone: https://github.com/omigroup/ux-research/milestone/
 - The group meets on Tuesday (for now) every 2 week(s) at 16:00 UTC
 - We might track our active tickets with our [Github Projects Kanban Backlog](../../projects/1?add_cards_query=is%3Aopen) but haven't really started using the backlog yet. 
 - A great way to track work is using [Milestones](../../milestones) which makes it easier to track progress based on desired outcomes and objectives.
